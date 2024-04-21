@@ -23,10 +23,10 @@ This report aims to find out whether there is a specific cause of departure for 
 
 
 
-● Performed EDA and data preprocessing on the given data
+- Performed EDA and data preprocessing on the given data
 
 
-● Data visualization and adopted catboost algorithm
+- Data visualization and adopted catboost algorithm
 
 
-● Provided solutions for the company based on post model analysis
+- Provided solutions for the company based on post model analysis
