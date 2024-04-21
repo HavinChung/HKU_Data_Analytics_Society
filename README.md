@@ -1,7 +1,7 @@
 # HKU_Data_Analytics_Society
 
 
-## About: Made an analysis on telecom company data (via Google Colab)
+### An analysis on telecom company data (via Google Colab)
 
 
 This report aims to find out whether there is a specific cause of departure for high LTV customers via data provided by IBM. It prepares short-term or mid to long-term countermeasures using overall EDA, LTV analysis, and Post Model analysis.
